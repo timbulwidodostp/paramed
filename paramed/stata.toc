@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p paramed Causal mediation analysis using parametric regression models Use paramed With STATA 18
